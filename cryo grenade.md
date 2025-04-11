@@ -1,0 +1,1 @@
+- each creature in a 10 meter radius must make a  constitution saving throw (DC 15) taking 6d8 cold damage on a failed save or half as much on a successful one. On a failed save, the target's speed is halved until the end of its next turn.
